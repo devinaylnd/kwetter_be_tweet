@@ -1004,11 +1004,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\macul\\OneDrive\\Desktop\\IT\\Individual\\kwetter_be\\tweet\\kwetter_tweet.csproj",
+      "projectUniqueName": "C:\\Users\\macul\\OneDrive\\Desktop\\temp\\kwetter_be_tweet\\kwetter_tweet.csproj",
       "projectName": "kwetter_tweet",
-      "projectPath": "C:\\Users\\macul\\OneDrive\\Desktop\\IT\\Individual\\kwetter_be\\tweet\\kwetter_tweet.csproj",
+      "projectPath": "C:\\Users\\macul\\OneDrive\\Desktop\\temp\\kwetter_be_tweet\\kwetter_tweet.csproj",
       "packagesPath": "C:\\Users\\macul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\macul\\OneDrive\\Desktop\\IT\\Individual\\kwetter_be\\tweet\\obj\\",
+      "outputPath": "C:\\Users\\macul\\OneDrive\\Desktop\\temp\\kwetter_be_tweet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\macul\\AppData\\Roaming\\NuGet\\NuGet.Config",
